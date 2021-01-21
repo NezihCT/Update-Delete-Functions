@@ -1,3 +1,5 @@
+## This project is codded and designed by me. Also I used the React, JavaScript and Html&Css. The main purposes is to create functions that has editting, updating, delete property in React. I deployed on Vercel and link:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
