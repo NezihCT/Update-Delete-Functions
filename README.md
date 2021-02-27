@@ -1,6 +1,6 @@
 ##(Kodluyoruz Homework)
 
-### Codesanbox link: https://codesandbox.io/s/objective-dirac-nufni?file=/src/App.js
+### Vercel link: https://csb-nufni-8jyh2dosu-nezihct.vercel.app/
 
 ## This project is codded and designed by me. Also I used the React, JavaScript and Html&Css. The main purposes is to create functions that has editting, updating, delete property in React.
 
